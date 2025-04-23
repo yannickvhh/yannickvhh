@@ -1,0 +1,11 @@
+# Hi, I’m Yannick Van Heerden, student at ECE Paris
+
+- 🎨 I’m passionate about UI/UX Design and creating intuitive digital experiences.
+- 💻 Currently learning: HTML, CSS, and JavaScript
+- 📫 How to reach me: yannick@van-heerden.com
+- Hobbies: Motorbikes, photography, trading
+
+<!---
+yannickvhh/yannickvhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
