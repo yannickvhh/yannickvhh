@@ -1,11 +1,26 @@
-# Hi, I’m Yannick Van Heerden, student at ECE Paris
+# Hi, I'm Yannick Van Heerden 👋
 
-- 🎨 I’m passionate about UI/UX Design and creating intuitive digital experiences.
-- 💻 Languages: HTML, CSS, JavaScript, MySQL, Python, C, React
-- 📫 How to reach me: yannick@van-heerden.com
-- Hobbies: Motorbikes, photography, trading, finance
+Engineering student at **ECE Paris** (M1, Finance & Quantitative Engineering), building toward a career in **market finance**: sales, trading and structuring.
 
-<!---
-yannickvhh/yannickvhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 What I'm working on
+- **Market risk pricing** in Python: Monte Carlo simulation, Black-Scholes, Vasicek, stochastic volatility, option sensitivities (Greeks) and digital options
+- **Machine learning** algorithms and numerical methods applied to finance
+- Tools that automate tracking and reporting (Excel + Python dashboards)
+
+## 🧰 Tech
+**Python** · C · SQL (MySQL) · PHP · JavaScript · React · HTML/CSS · Excel · Git/GitHub
+
+## 📂 Projects
+| Project | Description |
+|---|---|
+| `monte-carlo-pricing` *(coming soon)* | Course exercises: Black-Scholes, Vasicek, sensitivities, digital options |
+| `machine-learning` *(coming soon)* | Machine learning exercises and notebooks |
+| `portfolio-dashboard` *(coming soon)* | Portfolio tracking (crypto, equities, ETFs) with automated calculations and charts |
+
+> The code here is for learning purposes only and is not financial advice.
+
+## 🌍 Beyond code
+I'm bilingual in French and English, and outside of work I enjoy motorbikes, photography and trading.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/yannickvanheerden) · yannick@van-heerden.com
